@@ -1,0 +1,1 @@
+Start using Data, before it has finished loading.
